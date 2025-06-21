@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Complex Analysis\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13651534
+      }
+    },
+    {
+      "query": "path:\"Fluid Dynamics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "path:\"Classical Mechanics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12458424
+      }
+    },
+    {
+      "query": "path:\"E&M\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.645530145530146,
+  "repelStrength": 13.1600831600832,
+  "linkStrength": 0.728690228690229,
+  "linkDistance": 30,
+  "scale": 0.6021526843741813,
+  "close": true
+}

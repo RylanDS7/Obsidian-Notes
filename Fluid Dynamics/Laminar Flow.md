@@ -1,0 +1,1 @@
+A type of fluid flow where the fluid moves in well defined streamlines or laminas. Laminar flow can be assumed for any situation where the [[Reynolds Number]] is less than approximately 2300.

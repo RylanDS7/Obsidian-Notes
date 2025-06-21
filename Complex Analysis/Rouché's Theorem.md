@@ -1,0 +1,1 @@
+Let $\alpha$ be a simple closed curve with a function $f$ holomorphic on $\alpha \cup \text{int}(\alpha)$. If $|f(z) -w| < |w|$ for all $z \in \alpha$ given a fixed $w \in \mathbb{C}$, then $f$ does not have a zero on $\alpha \cup \text{int}(\alpha)$. 

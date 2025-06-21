@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "2f8d469f8878f441",
+    "type": "split",
+    "children": [
+      {
+        "id": "e69998defa92ddc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b7365c824837ac5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "62436081fa5c65d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E&M/Magnetic Scalar Potential.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnetic Scalar Potential"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd497595b4b969e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4efc944aff3381f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67382ba9e2ed5dba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f8a5fd15ad51c70d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "187dff8c9d4eb71c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "482f1551f4d073db",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e191b070131a0a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2024c928ae153f78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fluid Dynamics/General Energy Equation.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for General Energy Equation"
+            }
+          },
+          {
+            "id": "06523fa1713d8d3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cauchy's Integral Formula.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cauchy's Integral Formula"
+            }
+          },
+          {
+            "id": "466233184ed114e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4d3fc53126f2bb9c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cauchy's Integral Formula.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cauchy's Integral Formula"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b7365c824837ac5",
+  "lastOpenFiles": [
+    "E&M/Magnetic Scalar Potential.md",
+    "E&M",
+    "Electric Potential (Voltage).md",
+    "Untitled.canvas",
+    "Fluid Dynamics/Conservation of Momentum (fluids).md",
+    "Fluid Dynamics/Conservation of Angular Momentum (fluids).md",
+    "Complex Analysis/Branch Cuts of Complex Functions.md",
+    "Complex Analysis/Residue Theorem.md",
+    "Complex Analysis/Cauchy's Theorem.md",
+    "Complex Analysis/Fundamental Theorem of Algebra.md",
+    "Fluid Dynamics/Archimedes Principal.md",
+    "Complex Analysis/Mean Value Property.md",
+    "Complex Analysis/Cauchy's Integral Formula.md",
+    "Complex Analysis/Argument Principle.md",
+    "Fluid Dynamics/Reynolds Transport Theorem.md",
+    "Leibniz Integral Rule.md",
+    "Fluid Dynamics/Conservation of Mass (fluids).md",
+    "Fluid Dynamics/General Energy Equation.md",
+    "Complex Analysis/Liouville's Theorem.md",
+    "Complex Analysis/Maximum Modulus Principle.md",
+    "Complex Analysis/Rouché's Theorem.md",
+    "Fluid Dynamics/Frictional Losses in Pipes.md",
+    "Fluid Dynamics/Hydrostatic Force.md",
+    "Fluid Dynamics/Reynolds Number.md",
+    "Fluid Dynamics/Bernoulli's Equation.md",
+    "Fluid Dynamics/Pasted image 20250419114054.png",
+    "Fluid Dynamics/Pasted image 20250419114004.png",
+    "Fluid Dynamics/Turbulent Flow.md",
+    "Fluid Dynamics/Laminar Flow.md",
+    "Complex Analysis/Pasted image 20250410182913.png",
+    "Classical Mechanics",
+    "Fluid Dynamics",
+    "Complex Analysis",
+    "Pasted image 20250410182618.png",
+    "Complex Analysis/Pasted image 20250410172316.png"
+  ]
+}

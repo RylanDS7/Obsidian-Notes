@@ -1,0 +1,1 @@
+Follows directly from the [[Mean Value Property]], this theorem states that for an entire function $f$, if $f$ is bounded, then $f$ must be constant. The converse to this statement is also true, if $f$ is not constant, then $f$ must be unbounded.

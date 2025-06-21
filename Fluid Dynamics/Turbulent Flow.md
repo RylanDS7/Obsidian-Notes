@@ -1,0 +1,1 @@
+A type of fluid flow with high levels of mixing and chaotic or unpredictable behavior. Turbulent flow can be assumed for any situation where the [[Reynolds Number]] is greater than approximately 4000.
