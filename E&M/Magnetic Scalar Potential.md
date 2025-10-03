@@ -6,7 +6,7 @@ $$
 \vec{H} = -\nabla \psi
 $$
 
-which only exists when $\nabla \times \vec{H} = 0$. For the H field to be curl-free given a constant electric field we see from [[Ampere's Law]] that
+which only exists when $\nabla \times \vec{H} = 0$. For the H field to be curl-free given a constant electric field we see from [[Ampère-Maxwell Law]] that
 
 $$
 \nabla \times \vec{H} = \vec{J} = 0
