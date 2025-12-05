@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:\"Real Analysis\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4781243
+      }
     }
   ],
   "collapse-display": true,
@@ -42,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.645530145530146,
-  "repelStrength": 13.1600831600832,
-  "linkStrength": 0.728690228690229,
+  "centerStrength": 0.724532224532225,
+  "repelStrength": 14.8232848232848,
+  "linkStrength": 0.620582120582121,
   "linkDistance": 30,
-  "scale": 0.6021526843741813,
-  "close": true
+  "scale": 0.5795478917476851,
+  "close": false
 }

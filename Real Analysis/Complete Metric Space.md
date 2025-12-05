@@ -1,0 +1,1 @@
+A [[Metric Space]] $M$ is called complete if every Cauchy Sequence of components in $M$ converges to a limit in $M$.

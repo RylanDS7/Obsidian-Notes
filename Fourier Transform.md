@@ -1,4 +1,4 @@
-The Fourier Transform is a generalization of the [[Laplace Transform]] in the complex plane. This transform is used to visualize the different frequency components that are present in a given signal or function as represented in the [[Fourier Series]].
+The Fourier Transform is an extension of the [[Laplace Transform]] in the complex plane. This transform is used to visualize the different frequency components that are present in a given signal or function as represented in the [[Fourier Series]].
 
 The Fourier Transform of a function can be calculated with the formula
 

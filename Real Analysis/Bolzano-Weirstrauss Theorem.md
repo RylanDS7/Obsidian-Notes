@@ -1,0 +1,1 @@
+The Bolzano-Weirstrauss Theorem states that each bounded sequence of real numbers contains a convergent subsequence.
