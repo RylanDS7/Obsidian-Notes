@@ -1,0 +1,3 @@
+A set $A$ in a [[Hausdorff Topological Spaces]] is closed if and only if it's complement $A^c$ is an [[Open Sets]].
+
+This seems like an obvious definition but there is a bit of nuance. For example, a set can be both open and closed, consider $A = \mathbb{R}$ which is open by HTS axioms. However, $A^c = \emptyset$ which is also open by HTS axioms. Thus, $\mathbb{R}$ and $\emptyset$ are examples of sets that are both open and closed by this definition.

@@ -5,3 +5,5 @@ This may seem obvious for real numbers but it is non-trivial when applied to inf
 The proof of this fact is not trivial and involves creating an infinite chain of subsets and defining a bijection from $A$ to $A_1$ using the differences between these sets.
 
 SBT is an important corollary of this proof.
+
+This theorem is a fundamental result of [[Set Theory]].

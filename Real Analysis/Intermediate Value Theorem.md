@@ -1,0 +1,1 @@
+If $(X, \mathcal{T})$ is a [[Hausdorff Topological Spaces]] where $X$ is a [[Connected Sets]] and $f: X \rightarrow \mathbb{R}$ is a [[Continuous Functions]], then $f(X)$ is an interval in $\mathbb{R}$. This means that for for any points $x_0, x_1 \in X$, every real number between $f(x_0)$ and $f(x_1)$ can be obtained as $f(c)$ for some $c \in X$.

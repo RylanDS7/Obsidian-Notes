@@ -1,0 +1,3 @@
+The boundary points of $A$ in a [[Hausdorff Topological Spaces]] are denoted $\partial A$ and defined as the set of points $z$ such that for every [[Neighborhoods]] of $z$, G, we have $A \cap G \neq \emptyset$ and $A^c \cap G \neq \emptyset$.
+
+This means that $\partial A$ are all points which have every neighborhood with some elements in $A$, and some outside $A$. It is obvious that $\partial A = \partial (A^c)$.

@@ -20,3 +20,4 @@ $$
 \mathcal{L}\{f\}(s)=\hat{f}(-is) \qquad \qquad \hat{f}(\omega)=\mathcal{L}\{f\}(i\omega)
 $$
 
+The discrete Fourier transform utilizes the [[Roots of Unity]] as evaluation points which is fundamental to deriving the [[Fast Fourier Transform]]
