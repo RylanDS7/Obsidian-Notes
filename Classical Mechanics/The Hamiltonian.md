@@ -45,3 +45,5 @@ If the observable has no explicit time dependence then
 $$
 \frac{d}{dt}A = \{A,H\}
 $$
+
+The Hamiltonian can be expressed as an [[Operators]] which results in [[The Hamiltonian Operator]].

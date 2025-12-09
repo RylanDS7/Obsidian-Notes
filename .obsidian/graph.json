@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 9228531
       }
+    },
+    {
+      "query": "path:\"Quantum Mechanics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16021541
+      }
     }
   ],
   "collapse-display": true,
@@ -60,6 +67,6 @@
   "repelStrength": 12.7442827442827,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.8348749824508762,
+  "scale": 0.6065983293627092,
   "close": true
 }
