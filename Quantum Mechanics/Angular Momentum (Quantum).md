@@ -10,3 +10,5 @@ $$
 \hat{L}_- \ |\ell, m \rangle = \hbar \sqrt{(\ell + m) (\ell - m + 1)} \ |\ell, m-1 \rangle
 $$
 We can see that $m$ can range from $-\ell$ to $\ell$ in integer steps.
+
+In this formalism, when adding multiple angular momentum states (such as a physical angular momentum and spin vector) we need to use the Clebsch-Gordon coefficients to switch to the basis of the added states. This process can result in the states of two particles becoming [[Entangled States]].

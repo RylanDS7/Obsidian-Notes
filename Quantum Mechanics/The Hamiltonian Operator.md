@@ -11,3 +11,5 @@ $$
 \Psi(x, t) = \sum_n c_n \psi_n(x)e^{-\frac{iE_nt}{\hbar}}
 $$
 where $c_n$ constants are determined by the wavefunction given at $t=0$.
+
+The Hamiltonian operator can be used with [[Commutators]] to derive [[Ehrenfest Theorem]] which give the time dependance of measurement expectation values.
