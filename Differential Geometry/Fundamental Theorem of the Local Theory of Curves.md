@@ -1,0 +1,3 @@
+Given differential functions $k(s)>0$ and $\tau(s)$, $s \in I$ there exists a [[Curves Parameterized by Arc Length]], $\alpha(s)$ such that $k(s)$ and $\tau(s)$ are the [[Curvature and Torsion]] of $\alpha$. Any other curve satisfying the same properties differs from $\alpha$ only by a rigid motion (translation or rotation).
+
+This theorem basically states that locally at any point on a curve the trace is fully and uniquely defined by $k$ and $\tau$. If another curve section has the exact same $k$ and $\tau$ over the region then there are identical curves up to a rigid motion.

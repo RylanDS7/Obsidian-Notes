@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16021541
       }
+    },
+    {
+      "query": "path:\"Differential Geometry\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
     }
   ],
   "collapse-display": true,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.782744282744283,
-  "repelStrength": 12.7442827442827,
+  "centerStrength": 0.822916666666667,
+  "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.5753129054909373,
+  "scale": 0.5997131290493328,
   "close": true
 }

@@ -24,7 +24,7 @@ We can notice that the transformation matrix is the rotation matrix by 90 degree
 
 In fact, if a function is holomorphic, this implies that both the real and imaginary parts are harmonic functions. This means that both $u$ and $v$ satisfy [[Laplace's Equation]] meaning the divergence of their gradients is zero. The CR equations can then be interpreted as being satisfied when there is a $u$ and $v$ that satisfy Laplace's Equation and also have the gradient of $u$ being orthogonal to the gradient of $v$. 
 
-For a physical interpretation of what this means, we can think of $f$ as representing a vector field of fluid flow, where $u$ represents a the velocity potential of the incompressible fluid flow. In this situation, the gradient of $u$ points along curves where $v$ is constant since $\nabla{u}$ and $\nabla{v}$ are orthogonal. The curves traced by the gradient of $u$ for constant $v$ are the streamlines of the fluid flow while the curves traced by the gradient of $v$ for constant $u$ are the equipotential curves of the flow.
+For a physical interpretation of what this means, we can think of $f$ as representing a vector field of fluid flow, where $u$ represents the velocity potential of the incompressible fluid flow. In this situation, the gradient of $u$ points along curves where $v$ is constant since $\nabla{u}$ and $\nabla{v}$ are orthogonal. The curves traced by the gradient of $u$ for constant $v$ are the streamlines of the fluid flow while the curves traced by the gradient of $v$ for constant $u$ are the equipotential curves of the flow.
 
 We can express the derivative of $f$ using the partial derivatives of $u$ and $v$ in two ways:
 
