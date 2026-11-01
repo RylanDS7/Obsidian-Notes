@@ -1,0 +1,5 @@
+Let $f : V \subset S \rightarrow \mathbb{R}$ be a function defined on an open subset $V$ of a [[Regular Surfaces]] S. $f$ is said to be differentiable at $p \in V$ if for some parameterization, $\mathbf{x} : U \subset \mathbb{R}^2 \rightarrow S$ with $p \in \mathbf{x}(U) \subset V$, the composition $f \circ \mathbf{x} : U \subset \mathbb{R}^2 \rightarrow \mathbb{R}$ is differentiable at $\mathbf{x}^{-1}(p)$. $f$ is said to be differentiable in $V$ if $f$ is differentiable for all $p \in V$.
+
+This definition relies on the concept of [[Change of Parameterization]] to ensure that the differentiability of $S$ at a point is independent of the parameterization chosen at $p$, even thought the definition use parameterizations.
+
+This definition can be easily extended to function from one surface to another. 

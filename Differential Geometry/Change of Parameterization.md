@@ -1,0 +1,3 @@
+Let $p$ be a point in a [[Regular Surfaces]] $S$ and let $\mathbf{x}: U \subset \mathbb{R}^2 \rightarrow S$, $\mathbf{y} : V \subset \mathbb{R}^2 \rightarrow S$ be two parameterizations of $S$ such that $p \in \mathbf{x}(U) \cap \mathbf{y}(V) = W$. Then, the change of coordinates function  $h=\mathbf{x}^{-1}\circ \mathbf{y} : \mathbf{y}^{-1}(W) \rightarrow \mathbf{x}^{-1}(W)$ is a diffeomorphism, meaning it is differentiable and has a differentiable inverse.
+
+This implies that any local property of a surface does not depend on the chosen parameterization, since you can always switch between parameterization and differentiability and continuity will hold.
