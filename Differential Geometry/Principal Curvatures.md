@@ -1,0 +1,3 @@
+For a surface $S$, the maximum and minimum [[Normal Curvature]] values are denoted $k_1$ and $k_2$ and are called the principal curvatures at $p \in S$. The vectors $e_1$ and $e_2$ which these values occur along are called the principal directions at $p$ and are given by the eigenvectors of the [[Differential]] of the [[Gauss Map]].
+
+If a regular connected curve $C$ on $S$ has for all $p\in C$ the tangent line of $C$ is a principal direction at $p$, then $C$ is called a line of curvature of $S$.
