@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 12210912
       }
+    },
+    {
+      "query": "path:\"Particle Physics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 12.3958333333333,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6815985843145518,
+  "scale": 0.7568544837351934,
   "close": true
 }

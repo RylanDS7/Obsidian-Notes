@@ -18,101 +18,115 @@
             }
           },
           {
-            "id": "40ad87a5a189ab51",
+            "id": "e224a255e460d274",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/First Fundamental Form.md",
+                "file": "Particle Physics/The Standard Model of Particle Physics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "First Fundamental Form"
+              "title": "The Standard Model of Particle Physics"
             }
           },
           {
-            "id": "de0b60db57ec179d",
+            "id": "a00b70f027b05abc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/Regular Surfaces.md",
+                "file": "Particle Physics/Particle Decays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regular Surfaces"
+              "title": "Particle Decays"
             }
           },
           {
-            "id": "78c285a62c6e0701",
+            "id": "b9d70ac5acc7200c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/Gauss Map.md",
+                "file": "Particle Physics/Fermi's Golden Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gauss Map"
+              "title": "Fermi's Golden Rule"
             }
           },
           {
-            "id": "e1bf45be91335718",
+            "id": "0360f8b4d4cd5458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/Second Fundamental Form.md",
+                "file": "Particle Physics/Interaction Cross Section.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Fundamental Form"
+              "title": "Interaction Cross Section"
             }
           },
           {
-            "id": "13fb65e143e5646d",
+            "id": "d9808cd98a47f5cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/Normal Curvature.md",
+                "file": "Particle Physics/Dirac Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normal Curvature"
+              "title": "Dirac Equation"
             }
           },
           {
-            "id": "8e1d925e9635e469",
+            "id": "3ad7297cd7b7c6a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/Principal Curvatures.md",
+                "file": "Particle Physics/Helicity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principal Curvatures"
+              "title": "Helicity"
             }
           },
           {
-            "id": "a0e3fd3d5e18687a",
+            "id": "0fe071a7a9c2acd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Geometry/Gaussian and Mean Curvature.md",
+                "file": "Particle Physics/Feynman Diagrams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gaussian and Mean Curvature"
+              "title": "Feynman Diagrams"
+            }
+          },
+          {
+            "id": "73dcebb22b06f6cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Particle Physics/QED (Quantum Electrodynamics).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QED (Quantum Electrodynamics)"
             }
           }
         ]
@@ -278,16 +292,29 @@
   },
   "active": "3364b2c15a429194",
   "lastOpenFiles": [
-    "Differential Geometry/Second Fundamental Form.md",
+    "Particle Physics/QED (Quantum Electrodynamics).md",
+    "Particle Physics/Helicity.md",
+    "Particle Physics/Feynman Diagrams.md",
+    "Particle Physics/The Standard Model of Particle Physics.md",
+    "Particle Physics/Dirac Equation.md",
+    "Particle Physics/Interaction Cross Section.md",
+    "Particle Physics/Fermi's Golden Rule.md",
+    "Particle Physics/Particle Decays.md",
+    "Particle Physics/Pasted image 20261110130636.png",
+    "Particle Physics/Pasted image 20261110124808.png",
+    "Particle Physics",
+    "Particle Physics/Pasted image 20261110124445.png",
+    "Particle Physics/Pasted image 20261110124224.png",
     "Differential Geometry/Gaussian and Mean Curvature.md",
     "Differential Geometry/Principal Curvatures.md",
     "Differential Geometry/Normal Curvature.md",
-    "Differential Geometry/First Fundamental Form.md",
+    "Differential Geometry/Orientable Surfaces.md",
+    "Differential Geometry/Second Fundamental Form.md",
     "Differential Geometry/Gauss Map.md",
+    "Differential Geometry/First Fundamental Form.md",
     "Differential Geometry/Regular Surfaces.md",
     "Differential Geometry/Regularly Parameterized Curve.md",
     "Differential Geometry/Differential.md",
-    "Differential Geometry/Orientable Surfaces.md",
     "Differential Geometry/Tangent Plane.md",
     "Differential Geometry/Change of Parameterization.md",
     "Differential Geometry/Differentiability on a Surface.md",
@@ -296,15 +323,7 @@
     "Real Analysis/Neighborhoods.md",
     "Differential Geometry/Frenet Equations.md",
     "Differential Geometry/Curvature and Torsion.md",
-    "Differential Geometry/Curves Parameterized by Arc Length.md",
     "Differential Geometry",
-    "Calculus/Definition of Derivatives.md",
-    "E&M/Gauss's Law (Magnetism).md",
-    "Complex Analysis/Cauchy-Reimann Equations.md",
-    "Complex Analysis/Cauchy's Theorem.md",
-    "Real Analysis/Continuous Functions.md",
-    "Real Analysis/Hausdorff Topological Spaces.md",
-    "Real Analysis/Cauchy Sequences.md",
     "Quantum Mechanics",
     "Calculus",
     "Real Analysis",

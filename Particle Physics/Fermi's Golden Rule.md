@@ -1,0 +1,5 @@
+Fermi's Golden Rule describes the general formula for calculating the transition rate from an initial to a final state for a system. The Golden Rule is formulated as
+$$
+\Gamma_{fi} = 2\pi|\mathcal{M}_{fi}|^2\rho(E_i)
+$$
+where $\rho(E_i)$ is the density of accessible states from the initial state. This takes into account the multiple variants of the final state that can be taken by the interaction, meaning it describes the density of the [[Phase Space]]. In the context of particle interaction, this means the $\rho(E_i)$ handles the kinematics of the calculation, usually involving an integral over the phase space (which is generally an integral over the possible final momenta). Note that in general, the matrix element of the interaction $\mathcal{M}_{fi}$ (which encodes the dynamics, or the fundamental physics, of the interaction) is not independent of the phase space in general, and can be included in the phase space integral.
