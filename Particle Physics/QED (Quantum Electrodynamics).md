@@ -16,3 +16,11 @@ The process of getting a QED matrix element using these rules is:
 	- For photon: $-\frac{ig_{\mu\nu}}{q^2}$ 
 	- For fermion: $-\frac{i(\gamma^\mu q_\mu + m)}{q^2-m^2}$
 4. Assemble the interaction currents on either side of the propagator with the adjoint spinor written first, then set the entire expression equal to $-i \mathcal{M}$
+
+When calculating the matrix element for an interaction, the particles involved will be generally be unpolarized, and so each incident particle will have roughly equal amounts of up and down [[Helicity]] states. For a 2 body interaction, there will be 4 equally likely helicity combinations for the incident particles and 4 helicity combinations for the outgoing particles, leading to 16 total helicity combinations for the whole interaction (although some of them will typically be nonphysical and have matrix element equal zero). To get the matrix element for the full interaction, we need to average the matrix element for the initial combinations by summing over all 16 possibilities and dividing by 4:
+$$
+\langle|\mathcal{M}|^2\rangle = \frac{1}{4}\sum_{\text{spins}}|\mathcal{M}_i|^2
+$$
+In the relativistic limit, $E >> m$ the only currents that survive for an annihilation process have RL or LR helicities, meaning there are only 4 combinations to sum over. For a scattering process, the only currents that survive have RR or LL helicity,
+
+When not in the relativistic limit, there is a deeper symmetry that describes this principle, using the eigenstates of [[Chirality]]. For the chirality eigenstates, the only non-zero currents will always have the same eigenvalue on either side. This means that chirality is a good quantum number as is conserved at QED interaction vertices.
