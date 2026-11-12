@@ -21,3 +21,5 @@ $$
 $$
 
 (Above equation applying for flux approximation and steady state control volume).
+
+When the mass flow out of a surface is zero, this equation recovers the fact that the net force on a control volume of a fluid will be zero, leading to the concept of the [[Hydrostatic Force]].

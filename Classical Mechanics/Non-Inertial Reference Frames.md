@@ -14,7 +14,7 @@ $$
 a_{rel} = \frac{d^2}{dt^2}r_{rel} + \bigg(\frac{d}{dt}\Omega\bigg) \times R + 2(\Omega \times V) + \Omega \times (\Omega \times R)
 $$
 
-where $R$ and $V$ are the position and velocity in the non-inertial frame, $r_{rel}$ is the position vector from the inertial frame to the non-inertial frame, and $\Omega$ is the angular velocity of the non-inertial frame. 
+where $R$ and $V$ are the position and velocity in the non-inertial frame, $r_{rel}$ is the position vector from the inertial frame to the non-inertial frame, and $\Omega$ is the angular velocity of the non-inertial frame. It is worth noting that these terms emerge naturally when evaluating the [[Euler-Lagrange Equations]] for a the [[The Lagrangian]] of a non-inertial frame.
 
 A potentially easier way to see the significance of this is through the fictious forces induced in a non-inertial rotating frame:
 
